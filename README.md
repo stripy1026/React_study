@@ -1,7 +1,7 @@
 # React_study
 ****
 ## Version
-node.js v18.13.0
-npm 8.19.3
-corepack 0.15.2
-yarn 1.22.19
+- node.js v18.13.0
+- npm 8.19.3
+- corepack 0.15.2
+- yarn 1.22.19
